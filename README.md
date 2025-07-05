@@ -12,7 +12,7 @@ Megoldás menetének leírása
 
 3. Back-end
    
-   Itt is a Readme végigolvasásával kezdtem. Hasonló feladatot végeztem már Kotlin nyelven, de a különbségek miatt annyira nem voltam biztos a megoldásban, kerestem hasonló kódokat majd azokat futottam át. Szerencsére egész gyorsan és jól sikerült megoldani a feladat alap részeit. A Visual Code-hoz elérhető Thunder Clients használtam a végpontok tesztelésére. Később egészítettem ki a megoldást az extra részekkel. Ráraktam a limiteket a title-re és body-ra, majd az ezek miatti exception-t kezelve adom vissza azok üzenetét.+
+   Itt is a Readme végigolvasásával kezdtem. Hasonló feladatot végeztem már Kotlin nyelven, de a különbségek miatt annyira nem voltam biztos a megoldásban, kerestem hasonló kódokat majd azokat futottam át. Szerencsére egész gyorsan és jól sikerült megoldani a feladat alap részeit. A Visual Code-hoz elérhető Thunder Clients használtam a végpontok tesztelésére. Később egészítettem ki a megoldást az extra részekkel. Ráraktam a limiteket a title-re és body-ra, majd az ezek miatti exception-t kezelve adom vissza azok üzenetét.
 
 Mindkét részt teszteltem és működött az én oldalamon.
    
